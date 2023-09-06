@@ -9,7 +9,8 @@ mapper.xml <br>
 
 결과 화면 <br>
 
-![image](https://github.com/taeyoung0504/mybatis_test/assets/128016593/a9f6953f-241e-414e-8423-120d6a6910ca)
+![image](https://github.com/taeyoung0504/mybatis_test/assets/128016593/34afc2a3-0504-4e17-a6cf-d75c55c670f4)
+
 
 
 
